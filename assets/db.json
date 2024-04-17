@@ -1,0 +1,795 @@
+[
+       
+        {
+            "codigo": "arica",
+            "nombre": "Arica",
+            "region ": "01a",
+            "region_nombre": "Región de Arica y Parinacota",
+            "lat": -18.478215,
+            "lng": -70.320921
+        },
+        {
+            "codigo": "putre",
+            "nombre": "Putre",
+            "region ": "01a",
+            "region_nombre": "Región de Arica y Parinacota",
+            "lat": -18.196310,
+            "lng": -69.559169
+        },
+        {
+            "codigo": "iquique",
+            "nombre": "Iquique",
+            "region ": "01b",
+            "region_nombre": "Región de Tarapacá",
+            "lat": -20.214129,
+            "lng": -70.152423
+        },
+        {
+            "codigo": "pica",
+            "nombre": "Pica",
+            "region ": "01b",
+            "region_nombre": "Región de Tarapacá",
+            "lat": -20.491071,
+            "lng": -69.329308
+        },
+        {
+            "codigo": "ollague",
+            "nombre": "Ollagüe",
+            "region ": "02",
+            "region_nombre": "Región de Antofagasta",
+            "lat": -21.225944,
+            "lng": -68.255521
+        },
+        {
+            "codigo": "tocopilla",
+            "nombre": "Tocopilla",
+            "region ": "02",
+            "region_nombre": "Región de Antofagasta",
+            "lat": -22.088703,
+            "lng": -70.196112
+        },
+        {
+            "codigo": "calama",
+            "nombre": "Calama",
+            "region ": "02",
+            "region_nombre": "Región de Antofagasta",
+            "lat": -22.463319,
+            "lng": -68.925511
+        },
+        {
+            "codigo": "snpedro",
+            "nombre": "San Pedro",
+            "region ": "02",
+            "region_nombre": "Región de Antofagasta",
+            "lat": -22.910956,
+            "lng": -68.200137
+        },
+        {
+            "codigo": "antofagasta",
+            "nombre": "Antofagasta",
+            "region ": "02",
+            "region_nombre": "Región de Antofagasta",
+            "lat": -23.646486,
+            "lng": -70.397981
+        },
+        {
+            "codigo": "taltal",
+            "nombre": "Taltal",
+            "region ": "02",
+            "region_nombre": "Región de Antofagasta",
+            "lat": -25.408000,
+            "lng": -70.485829
+        },
+        {
+            "codigo": "salvador",
+            "nombre": "El Salvador",
+            "region ": "03",
+            "region_nombre": "Región de Atacama",
+            "lat": -26.246344,
+            "lng": -69.625974
+        },
+        {
+            "codigo": "chanaral",
+            "nombre": "Chañaral",
+            "region ": "03",
+            "region_nombre": "Región de Atacama",
+            "lat": -26.347918,
+            "lng": -70.622372
+        },
+        {
+            "codigo": "caldera",
+            "nombre": "Caldera",
+            "region ": "03",
+            "region_nombre": "Región de Atacama",
+            "lat": -27.067557,
+            "lng": -70.822280
+        },
+        {
+            "codigo": "copiapo",
+            "nombre": "Copiapó",
+            "region ": "03",
+            "region_nombre": "Región de Atacama",
+            "lat": -27.366543,
+            "lng": -70.332311
+        },
+        {
+            "codigo": "huasco",
+            "nombre": "Huasco",
+            "region ": "03",
+            "region_nombre": "Región de Atacama",
+            "lat": -28.465182,
+            "lng": -71.220850
+        },
+        {
+            "codigo": "freirina",
+            "nombre": "Freirina",
+            "region ": "03",
+            "region_nombre": "Región de Atacama",
+            "lat": -28.508586,
+            "lng": -71.078460
+        },
+        {
+            "codigo": "vallenar",
+            "nombre": "Vallenar",
+            "region ": "03",
+            "region_nombre": "Región de Atacama",
+            "lat": -28.575138,
+            "lng": -70.761682
+        },
+        {
+            "codigo": "serena",
+            "nombre": "La Serena/Coquimbo",
+            "region ": "04",
+            "region_nombre": "Región de Coquimbo",
+            "lat": -29.902727,
+            "lng": -71.251929
+        },
+        {
+            "codigo": "vicuna",
+            "nombre": "Vicuña",
+            "region ": "04",
+            "region_nombre": "Región de Coquimbo",
+            "lat": -30.034041,
+            "lng": -70.712818
+        },
+        {
+            "codigo": "ovalle",
+            "nombre": "Ovalle",
+            "region ": "04",
+            "region_nombre": "Región de Coquimbo",
+            "lat": -30.603087,
+            "lng": -71.202960
+        },
+        {
+            "codigo": "combarbala",
+            "nombre": "Combarbalá",
+            "region ": "04",
+            "region_nombre": "Región de Coquimbo",
+            "lat": -31.178245,
+            "lng": -71.002545
+        },
+        {
+            "codigo": "illapel",
+            "nombre": "Illapel",
+            "region ": "04",
+            "region_nombre": "Región de Coquimbo",
+            "lat": -31.632732,
+            "lng": -71.168299
+        },
+        {
+            "codigo": "vilos",
+            "nombre": "Los Vilos",
+            "region ": "04",
+            "region_nombre": "Región de Coquimbo",
+            "lat": -31.912248,
+            "lng": -71.513742
+        },
+        {
+            "codigo": "ligua",
+            "nombre": "La Ligua",
+            "region ": "05",
+            "region_nombre": "Región de Valparaíso",
+            "lat": -32.449389,
+            "lng": -71.231657
+        },
+        {
+            "codigo": "papudo",
+            "nombre": "Papudo/Zapallar",
+            "region ": "05",
+            "region_nombre": "Región de Valparaíso",
+            "lat": -32.507617,
+            "lng": -71.445992
+        },
+        {
+            "codigo": "snfelipe",
+            "nombre": "San Felipe",
+            "region ": "05",
+            "region_nombre": "Región de Valparaíso",
+            "lat": -32.750744,
+            "lng": -70.725073
+        },
+        {
+            "codigo": "andes",
+            "nombre": "Los Andes",
+            "region ": "05",
+            "region_nombre": "Región de Valparaíso",
+            "lat": -32.833716,
+            "lng": -70.598206
+        },
+        {
+            "codigo": "calera",
+            "nombre": "La Calera/Quillota",
+            "region ": "05",
+            "region_nombre": "Región de Valparaíso",
+            "lat": -32.785436,
+            "lng": -71.198037
+        },
+        {
+            "codigo": "vdelmar",
+            "nombre": "Viña del Mar",
+            "region ": "05",
+            "region_nombre": "Región de Valparaíso",
+            "lat": -33.024602,
+            "lng": -71.551829
+        },
+        {
+            "codigo": "valpo",
+            "nombre": "Valparaíso",
+            "region ": "05",
+            "region_nombre": "Región de Valparaíso",
+            "lat": -33.048056,
+            "lng": -71.607513
+        },
+        {
+            "codigo": "olmue",
+            "nombre": "Villa Alemana/Quilpué",
+            "region ": "05",
+            "region_nombre": "Región de Valparaíso",
+            "lat": -33.049838,
+            "lng": -71.441522
+        },
+        {
+            "codigo": "casablanca",
+            "nombre": "Casablanca",
+            "region ": "05",
+            "region_nombre": "Región de Valparaíso",
+            "lat": -33.316568,
+            "lng": -71.406381
+        },
+        {
+            "codigo": "algarrobo",
+            "nombre": "Algarrobo",
+            "region ": "05",
+            "region_nombre": "Región de Valparaíso",
+            "lat": -33.360809,
+            "lng": -71.665364
+        },
+        {
+            "codigo": "snantonio",
+            "nombre": "San Antonio/Cartagena",
+            "region ": "05",
+            "region_nombre": "Región de Valparaíso",
+            "lat": -33.588024,
+            "lng": -71.612235
+        },
+        {
+            "codigo": "snantonioi",
+            "nombre": "San Antonio Interior",
+            "region ": "05",
+            "region_nombre": "Región de Valparaíso",
+            "lat": -33.565852,
+            "lng": -71.561013
+        },
+        {
+            "codigo": "colina",
+            "nombre": "Colina",
+            "region ": "05m",
+            "region_nombre": "Región Metropolitana de Santiago",
+            "lat": -33.202215,
+            "lng": -70.674960
+        },
+        {
+            "codigo": "stgoc",
+            "nombre": "Santiago Sector Centro",
+            "region ": "05m",
+            "region_nombre": "Región Metropolitana de Santiago",
+            "lat": -33.445057,
+            "lng": -70.682711
+        },
+        {
+            "codigo": "stgon",
+            "nombre": "Santiago Sector Norte",
+            "region ": "05m",
+            "region_nombre": "Región Metropolitana de Santiago",
+            "lat": -33.385684,
+            "lng": -70.671294
+        },
+        {
+            "codigo": "stgoo",
+            "nombre": "Santiago Sector Oriente",
+            "region ": "05m",
+            "region_nombre": "Región Metropolitana de Santiago",
+            "lat": -33.439166,
+            "lng": -70.573619
+        },
+        {
+            "codigo": "stgos",
+            "nombre": "Santiago Sector Sur",
+            "region ": "05m",
+            "region_nombre": "Región Metropolitana de Santiago",
+            "lat": -33.539399,
+            "lng": -70.665389
+        },
+        {
+            "codigo": "stgop",
+            "nombre": "Santiago Sector Poniente",
+            "region ": "05m",
+            "region_nombre": "Región Metropolitana de Santiago",
+            "lat": -33.464842,
+            "lng": -70.762205
+        },
+        {
+            "codigo": "curacavi",
+            "nombre": "Curacaví",
+            "region ": "05m",
+            "region_nombre": "Región Metropolitana de Santiago",
+            "lat": -33.402160,
+            "lng": -71.129339
+        },
+        {
+            "codigo": "melipilla",
+            "nombre": "Melipilla",
+            "region ": "05m",
+            "region_nombre": "Región Metropolitana de Santiago",
+            "lat": -33.685490,
+            "lng": -71.214516
+        },
+        {
+            "codigo": "snjosemaipo",
+            "nombre": "San José de Maipo",
+            "region ": "05m",
+            "region_nombre": "Región Metropolitana de Santiago",
+            "lat": -33.640478,
+            "lng": -70.352858
+        },
+        {
+            "codigo": "pichilemu",
+            "nombre": "Pichilemu",
+            "region ": "06",
+            "region_nombre": "Región del Libertador General Bernardo O'Higgins",
+            "lat": -34.385114,
+            "lng": -72.005093
+        },
+        {
+            "codigo": "rancagua",
+            "nombre": "Rancagua",
+            "region ": "06",
+            "region_nombre": "Región del Libertador General Bernardo O'Higgins",
+            "lat": -34.168532,
+            "lng": -70.718057
+        },
+        {
+            "codigo": "rengo",
+            "nombre": "Rengo",
+            "region ": "06",
+            "region_nombre": "Región del Libertador General Bernardo O'Higgins",
+            "lat": -34.408978,
+            "lng": -70.861510
+        },
+        {
+            "codigo": "snfernando",
+            "nombre": "San Fernando",
+            "region ": "06",
+            "region_nombre": "Región del Libertador General Bernardo O'Higgins",
+            "lat": -34.583922,
+            "lng": -70.989082
+        },
+        {
+            "codigo": "stacruz",
+            "nombre": "Santa Cruz",
+            "region ": "06",
+            "region_nombre": "Región del Libertador General Bernardo O'Higgins",
+            "lat": -34.640352,
+            "lng": -71.366077
+        },
+        {
+            "codigo": "curico",
+            "nombre": "Curicó",
+            "region ": "07",
+            "region_nombre": "Región del Maule",
+            "lat": -34.985373,
+            "lng": -71.239398
+        },
+        {
+            "codigo": "molina",
+            "nombre": "Molina",
+            "region ": "07",
+            "region_nombre": "Región del Maule",
+            "lat": -35.113991,
+            "lng": -71.280060
+        },
+        {
+            "codigo": "constitucion",
+            "nombre": "Constitución",
+            "region ": "07",
+            "region_nombre": "Región del Maule",
+            "lat": -35.331849,
+            "lng": -72.411872
+        },
+        {
+            "codigo": "talca",
+            "nombre": "Talca",
+            "region ": "07",
+            "region_nombre": "Región del Maule",
+            "lat": -35.426519,
+            "lng": -71.666008
+        },
+        {
+            "codigo": "linares",
+            "nombre": "Linares",
+            "region ": "07",
+            "region_nombre": "Región del Maule",
+            "lat": -35.845438,
+            "lng": -71.597989
+        },
+        {
+            "codigo": "cauquenes",
+            "nombre": "Cauquenes",
+            "region ": "07",
+            "region_nombre": "Región del Maule",
+            "lat": -35.967150,
+            "lng": -72.315545
+        },
+        {
+            "codigo": "parral",
+            "nombre": "Parral",
+            "region ": "07",
+            "region_nombre": "Región del Maule",
+            "lat": -36.141425,
+            "lng": -71.822247
+        },
+        {
+            "codigo": "cobquecura",
+            "nombre": "Cobquecura",
+            "region ": "08a",
+            "region_nombre": "Región de Ñuble",
+            "lat": -36.131770,
+            "lng": -72.791596
+        },
+        {
+            "codigo": "sancarlos",
+            "nombre": "San Carlos",
+            "region ": "08a",
+            "region_nombre": "Región de Ñuble",
+            "lat": -36.424830,
+            "lng": -71.958093
+        },
+        {
+            "codigo": "chillan",
+            "nombre": "Chillán",
+            "region ": "08a",
+            "region_nombre": "Región de Ñuble",
+            "lat": -36.606703,
+            "lng": -72.103376
+        },
+        {
+            "codigo": "concepcion",
+            "nombre": "Concepción",
+            "region ": "08b",
+            "region_nombre": "Región del Biobío",
+            "lat": -36.827056,
+            "lng": -73.050187
+        },
+        {
+            "codigo": "talcahuano",
+            "nombre": "Talcahuano",
+            "region ": "08b",
+            "region_nombre": "Región del Biobío",
+            "lat": -36.714372,
+            "lng": -73.114031
+        },
+        {
+            "codigo": "lota",
+            "nombre": "Lota",
+            "region ": "08b",
+            "region_nombre": "Región del Biobío",
+            "lat": -37.089795,
+            "lng": -73.162738
+        },
+        {
+            "codigo": "lebu",
+            "nombre": "Lebu",
+            "region ": "08b",
+            "region_nombre": "Región del Biobío",
+            "lat": -37.610253,
+            "lng": -73.656125
+        },
+        {
+            "codigo": "angeles",
+            "nombre": "Los Ángeles",
+            "region ": "08b",
+            "region_nombre": "Región del Biobío",
+            "lat": -37.470781,
+            "lng": -72.351701
+        },
+        {
+            "codigo": "angol",
+            "nombre": "Angol",
+            "region ": "09",
+            "region_nombre": "Región de la Araucanía",
+            "lat": -37.798784,
+            "lng": -72.708674
+        },
+        {
+            "codigo": "temuco",
+            "nombre": "Temuco",
+            "region ": "09",
+            "region_nombre": "Región de la Araucanía",
+            "lat": -38.739948,
+            "lng": -72.590175
+        },
+        {
+            "codigo": "psaavedra",
+            "nombre": "Puerto Saavedra",
+            "region ": "09",
+            "region_nombre": "Región de la Araucanía",
+            "lat": -38.783719,
+            "lng": -73.397933
+        },
+        {
+            "codigo": "villarica",
+            "nombre": "Villarrica/Pucón",
+            "region ": "09",
+            "region_nombre": "Región de la Araucanía",
+            "lat": -39.278072,
+            "lng": -72.227496
+        },
+        {
+            "codigo": "panguipulli",
+            "nombre": "Panguipulli",
+            "region ": "10a",
+            "region_nombre": "Región de los Ríos",
+            "lat": -39.641983,
+            "lng": -72.333388
+        },
+        {
+            "codigo": "valdivia",
+            "nombre": "Valdivia",
+            "region ": "10a",
+            "region_nombre": "Región de los Ríos",
+            "lat": -39.814207,
+            "lng": -73.245854
+        },
+        {
+            "codigo": "riobueno",
+            "nombre": "Río Bueno",
+            "region ": "10a",
+            "region_nombre": "Región de los Ríos",
+            "lat": -40.333620,
+            "lng": -72.956827
+        },
+        {
+            "codigo": "ranco",
+            "nombre": "Lago Ranco",
+            "region ": "10a",
+            "region_nombre": "Región de los Ríos",
+            "lat": -40.321707,
+            "lng": -72.481628
+        },
+        {
+            "codigo": "osorno",
+            "nombre": "Osorno",
+            "region ": "10b",
+            "region_nombre": "Región de los Lagos",
+            "lat": -40.573801,
+            "lng": -73.135867
+        },
+        {
+            "codigo": "pmontt",
+            "nombre": "Puerto Montt",
+            "region ": "10b",
+            "region_nombre": "Región de los Lagos",
+            "lat": -41.471793,
+            "lng": -72.939603
+        },
+        {
+            "codigo": "cochamo",
+            "nombre": "Cochamó",
+            "region ": "10b",
+            "region_nombre": "Región de los Lagos",
+            "lat": -41.493147,
+            "lng": -72.308289
+        },
+        {
+            "codigo": "ancud",
+            "nombre": "Ancud",
+            "region ": "10b",
+            "region_nombre": "Región de los Lagos",
+            "lat": -41.868191,
+            "lng": -73.828745
+        },
+        {
+            "codigo": "castro",
+            "nombre": "Castro",
+            "region ": "10b",
+            "region_nombre": "Región de los Lagos",
+            "lat": -42.482276,
+            "lng": -73.764292
+        },
+        {
+            "codigo": "chaiten",
+            "nombre": "Chaitén",
+            "region ": "10b",
+            "region_nombre": "Región de los Lagos",
+            "lat": -42.916554,
+            "lng": -72.708526
+        },
+        {
+            "codigo": "quellon",
+            "nombre": "Quellón",
+            "region ": "10b",
+            "region_nombre": "Región de los Lagos",
+            "lat": -43.120027,
+            "lng": -73.620349
+        },
+        {
+            "codigo": "futaleufu",
+            "nombre": "Futaleufú",
+            "region ": "10b",
+            "region_nombre": "Región de los Lagos",
+            "lat": -43.185814,
+            "lng": -71.866683
+        },
+        {
+            "codigo": "melinka",
+            "nombre": "Melinka",
+            "region ": "11",
+            "region_nombre": "Región de Aysén del General Carlos Ibáñez del Campo",
+            "lat": -43.897530,
+            "lng": -73.746364
+        },
+        {
+            "codigo": "lagoverde",
+            "nombre": "Lago Verde",
+            "region ": "11",
+            "region_nombre": "Región de Aysén del General Carlos Ibáñez del Campo",
+            "lat": -44.240222,
+            "lng": -71.849205
+        },
+        {
+            "codigo": "cisnes",
+            "nombre": "Puerto Cisnes",
+            "region ": "11",
+            "region_nombre": "Región de Aysén del General Carlos Ibáñez del Campo",
+            "lat": -44.727461,
+            "lng": -72.680454
+        },
+        {
+            "codigo": "aysen",
+            "nombre": "Puerto Aysén",
+            "region ": "11",
+            "region_nombre": "Región de Aysén del General Carlos Ibáñez del Campo",
+            "lat": -45.406797,
+            "lng": -72.697803
+        },
+        {
+            "codigo": "coyhaique",
+            "nombre": "Coyhaique",
+            "region ": "11",
+            "region_nombre": "Región de Aysén del General Carlos Ibáñez del Campo",
+            "lat": -45.571229,
+            "lng": -72.068514
+        },
+        {
+            "codigo": "balmaceda",
+            "nombre": "Balmaceda",
+            "region ": "11",
+            "region_nombre": "Región de Aysén del General Carlos Ibáñez del Campo",
+            "lat": -45.909457,
+            "lng": -71.696936
+        },
+        {
+            "codigo": "pibanez",
+            "nombre": "Puerto Ingeniero Ibáñez",
+            "region ": "11",
+            "region_nombre": "Región de Aysén del General Carlos Ibáñez del Campo",
+            "lat": -46.291892,
+            "lng": -71.937462
+        },
+        {
+            "codigo": "chchico",
+            "nombre": "Chile Chico",
+            "region ": "11",
+            "region_nombre": "Región de Aysén del General Carlos Ibáñez del Campo",
+            "lat": -46.537633,
+            "lng": -71.729187
+        },
+        {
+            "codigo": "cochrane",
+            "nombre": "Cochrane",
+            "region ": "11",
+            "region_nombre": "Región de Aysén del General Carlos Ibáñez del Campo",
+            "lat": -47.253963,
+            "lng": -72.573205
+        },
+        {
+            "codigo": "tortel",
+            "nombre": "Caleta Tortel",
+            "region ": "11",
+            "region_nombre": "Región de Aysén del General Carlos Ibáñez del Campo",
+            "lat": -47.795872,
+            "lng": -73.531429
+        },
+        {
+            "codigo": "ohiggins",
+            "nombre": "Villa O'Higgins",
+            "region ": "11",
+            "region_nombre": "Región de Aysén del General Carlos Ibáñez del Campo",
+            "lat": -48.468463,
+            "lng": -72.559252
+        },
+        {
+            "codigo": "torres",
+            "nombre": "Torres del Paine",
+            "region ": "12",
+            "region_nombre": "Región de Magallanes y de la Antártica Chilena",
+            "lat": -50.984467,
+            "lng": -72.995873
+        },
+        {
+            "codigo": "natales",
+            "nombre": "Puerto Natales",
+            "region ": "12",
+            "region_nombre": "Región de Magallanes y de la Antártica Chilena",
+            "lat": -51.731566,
+            "lng": -72.498376
+        },
+        {
+            "codigo": "parenas",
+            "nombre": "Punta Arenas",
+            "region ": "12",
+            "region_nombre": "Región de Magallanes y de la Antártica Chilena",
+            "lat": -53.162651,
+            "lng": -70.907961
+        },
+        {
+            "codigo": "porvenir",
+            "nombre": "Porvenir",
+            "region ": "12",
+            "region_nombre": "Región de Magallanes y de la Antártica Chilena",
+            "lat": -53.295628,
+            "lng": -70.368732
+        },
+        {
+            "codigo": "pwilliams",
+            "nombre": "Puerto Williams",
+            "region ": "12",
+            "region_nombre": "Región de Magallanes y de la Antártica Chilena",
+            "lat": -54.935717,
+            "lng": -67.606164
+        },
+        {
+            "codigo": "rapanui",
+            "nombre": "Isla de Pascua",
+            "region ": "05",
+            "region_nombre": "Región de Valparaíso",
+            "lat": -27.159974,
+            "lng": -109.429285
+        },
+        {
+            "codigo": "jfernandez",
+            "nombre": "Archipiélago Juan Fernández",
+            "region ": "05",
+            "region_nombre": "Región de Valparaíso",
+            "lat": -33.635729,
+            "lng": -78.831156
+        },
+        {
+            "codigo": "antartica",
+            "nombre": "Península Antártica",
+            "region ": "12",
+            "region_nombre": "Región de Magallanes y de la Antártica Chilena",
+            "lat": -62.200244,
+            "lng": -58.963997
+        }
+    ]
